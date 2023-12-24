@@ -110,10 +110,3 @@
   <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter (Dart)" width="40" height="40"></a>
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin (.NET)" width="40" height="40"></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdeel07&show_icons=true&locale=en&layout=compact" alt="abdeel07" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdeel07&" alt="abdeel07" /></p>
