@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full-stack web developer from Morocco</h3>
 
 
-- 🔭 I’m currently working on **E-commerce site, based on a microservices architecture [Springboot - Django - React.js]**
-
 - 🌱 I’m currently learning **Microservices Architecture**
 
 - 👯 I’m looking to collaborate on **an exclusive project**
