@@ -2,13 +2,9 @@
 <h3 align="center">A passionate full-stack web developer from Morocco</h3>
 
 
-- 🌱 I’m currently learning **Microservices Architecture**
-
 - 👯 I’m looking to collaborate on **an exclusive project**
 
 - 👨‍💻 My portfolio [https://abdeelbrh.com/](https://abdeelbrh.com/)
-
-- 💬 Ask me about **everything related to software development**
 
 - 📫 How to reach me **abdelilah.bourhou@gmail.com | contact@abdeelbrh.com**
 
