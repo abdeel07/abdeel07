@@ -18,13 +18,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"></a>
   <a href="https://angular.io" target="_blank" rel="noopener noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django (Python)" width="40" height="40"></a>
 </p>
 
 <!-- Backend Development Category -->
@@ -33,9 +29,11 @@
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"></a>
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js (JavaScript)" width="40" height="40"></a>
+  
   <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring (Java)" width="40" height="40"></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask (Python)" width="40" height="40"></a>
+
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer"><img src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-6nj1im30.png" alt=".Net" width="40" height="40"></a>
 </p>
 
 <!-- Database Category -->
@@ -66,41 +64,24 @@
   <a href="https://heroku.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"></a>
 </p>
 
-<!-- Data Science and Machine Learning Category -->
-<h4 align="center">Data Science and Machine Learning:</h4>
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"></a>
-  <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"></a>
-</p>
-
 <!-- Other Technologies Category -->
 <h4 align="center">Other Technologies:</h4>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"></a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"></a>
+  
   <a href="https://graphql.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"></a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"></a>
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"></a>
   <a href="https://hive.apache.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive (Apache Hadoop)" width="40" height="40"></a>
 </p>
 
-<!-- JavaScript Libraries and Frameworks Category -->
-<h4 align="center">JavaScript Libraries and Frameworks:</h4>
-<p align="center">
-  <a href="https://www.chartjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" width="40" height="40"></a>
-  <a href="https://graphql.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"></a>
-</p>
-
 <!-- Mobile Development Category -->
 <h4 align="center">Mobile Development:</h4>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android (Java/Kotlin)" width="40" height="40"></a>
+  <a href="https://reactnative.dev" target="_blank" rel="noopener noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"></a>
   <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter (Dart)" width="40" height="40"></a>
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin (.NET)" width="40" height="40"></a>
 </p>
